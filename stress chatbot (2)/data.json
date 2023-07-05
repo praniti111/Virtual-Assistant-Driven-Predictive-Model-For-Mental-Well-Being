@@ -1,0 +1,47 @@
+{
+  "question": [
+     "Q1. Do you feel like withdrawing from family,friends,and isolating yourself?",
+     "Q2. Do you underestimate how long it takes to do things?",
+     "Q3. Do you feel irritable,annoyed,or over trivial issues?",
+     "Q4. Do you feel pain or tension in your stomatch,muscles,chest,or head?",
+     "Q5 Do you experience headaches or muscle tension?",
+     "Q6 On average,do you get less than 7-8hours of sleep a night?",
+     "Q7 Do you have trouble staying focused on the present movement?",
+     "Q8 Do you often nod or finish other peoples sentences for them when they speak slowly?",
+     "Q9 Do you struggle to fill asleep at night?",
+     "Q10 Do you tum to unhealthy food indulgences such as eating junk food,driking excessively,or eating sugary food when felling overwhelmed?"
+     
+  ],
+  "options": [
+    ["Yes",
+      "No"
+    ],
+    ["Yes",
+      "No"
+    ],
+    ["yes",
+      "No"
+    ],
+    ["yes",
+      "No"
+    ],
+    ["Yes",
+      "No"
+    ],
+    ["Yes",
+      "No"
+    ],
+    ["yes",
+      "No"
+    ],
+    ["yes",
+      "No"
+    ],
+    ["Yes",
+      "No"
+    ],
+    ["Yes",
+      "No"
+    ]
+  ]
+}
